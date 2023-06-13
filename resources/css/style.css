@@ -1,0 +1,17 @@
+.bg-teal{
+    background-image: url(/public/storage/media/H3.jpg);
+    background-repeat: no-repeat;
+    height: 40vh;
+    width: auto;
+    background-size: cover;
+    background-position-y: center;
+    position: relative;
+}
+
+.bg-teal h1 {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: black;
+}
+
